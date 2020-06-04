@@ -95,12 +95,12 @@
 // }
 
 // 3.
-let i = 50;
-while (i <= 100) {
-    if (i % 10 == 0) {
-        i += 5;
-        continue;
-    }
-    console.log(i)
-    i += 5;
-}
+// let i = 50;
+// while (i <= 100) {
+//     if (i % 10 == 0) {
+//         i += 5;
+//         continue;
+//     }
+//     console.log(i)
+//     i += 5;
+// }

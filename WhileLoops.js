@@ -35,6 +35,10 @@
 //     console.log(i)
 //     i--;
 // }
+// for (let i = 12; i >= 7; i--) {
+//     console.log(i);
+    
+// }
 
 // Q4.
 
